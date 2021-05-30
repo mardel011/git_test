@@ -1,0 +1,2 @@
+PROJECT: PRACTICING GIT BASICS
+The Odin Project
